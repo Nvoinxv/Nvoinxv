@@ -3,14 +3,14 @@
 update_time.py
 --------------
 An automated script to calculate exact duration (Years, Months, Days) from `start_date`
-stored in `.github/data/time.json` to today's date, update the JSON file with the
+stored in `.github/data/time.json` to today's date (in UTC), update the JSON file with the
 calculated duration and last_updated timestamp, and replace the content between
 `<!--TIME_TRACKER_START-->` and `<!--TIME_TRACKER_END-->` markers in `README.md`.
 """
 
 import json
 import calendar
-from datetime import datetime, date
+from datetime import datetime, date, timezone
 from pathlib import Path
 
 
@@ -67,11 +67,11 @@ def main():
         raise ValueError("Field 'start_date' not found in time.json")
 
     start_date = datetime.strptime(start_date_str, "%Y-%m-%d").date()
-    today = datetime.now().date()
+    today = datetime.now(timezone.utc).date()
     today_str = today.strftime("%Y-%m-%d")
 
     print(f"[*] Start Date : {start_date_str}")
-    print(f"[*] Today's Date : {today_str}")
+    print(f"[*] Today's Date (UTC) : {today_str}")
 
     # 2. Calculate exact calendar difference
     years, months, days = calculate_exact_duration(start_date, today)
