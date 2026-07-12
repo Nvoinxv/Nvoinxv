@@ -29,7 +29,7 @@ Consistency is the key to building robust AI and Full-Stack systems. Below is my
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nvoinxv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&include_all_commits=true&count_private=true" alt="Comprehensive GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nvoinxv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&include_all_commits=true&count_private=true" alt="Comprehensive GitHub Stats" />
 </div>
 
 ---
@@ -39,7 +39,7 @@ Consistency is the key to building robust AI and Full-Stack systems. Below is my
 Across AI Automation, Web Architecture, and Mobile Engineering, here is the automated distribution of languages in my repositories:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvoinxv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" alt="Detailed Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nvoinxv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" alt="Detailed Top Languages" />
 </div>
 
 ### 📊 Primary Domain Breakdown
@@ -58,7 +58,7 @@ Across AI Automation, Web Architecture, and Mobile Engineering, here is the auto
 > *An elegant visual representation of my daily contribution history across the entire year.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nvoinxv/Nvoinxv/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Snake" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/Nvoinxv/Profile_Nvoin_Github/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Snake" onerror="this.style.display='none'" />
 </div>
 
 ---
