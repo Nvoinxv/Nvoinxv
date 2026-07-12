@@ -76,25 +76,25 @@ This section is **automatically synchronized every 6 hours** using GitHub Action
 
 ### ⚡ Core Statistics & Contribution Streak
 <div align="center">
-  <a href="https://github.com/<GANTI_USERNAME>">
-    <img src="https://github-readme-stats.vercel.app/api?username=<GANTI_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
+  <a href="https://github.com/Nvoinxv">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nvoinxv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/<GANTI_USERNAME>">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=<GANTI_USERNAME>&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
+  <a href="https://github.com/Nvoinxv">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvoinxv&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
 ### 🌐 Top Languages Distribution
 <div align="center">
-  <a href="https://github.com/<GANTI_USERNAME>">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GANTI_USERNAME>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/Nvoinxv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvoinxv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" />
   </a>
 </div>
 
 ### 🐍 Animated Contribution Grid Snake
-<!-- Animasi elegan ular memakan kontribusi GitHub kamu (di-generate otomatis via action/platfrom snake) -->
+<!-- Animasi elegan ular memakan kontribusi GitHub Nvoinxv -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/<GANTI_USERNAME>/<GANTI_USERNAME>/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/Nvoinxv/Nvoinxv/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" onerror="this.style.display='none'" />
 </div>
 
 ---

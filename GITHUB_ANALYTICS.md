@@ -1,6 +1,6 @@
 <div align="center">
   <h1>📈 GitHub Analytics & Performance Dashboard</h1>
-  <p><b>Detailed breakdown of development consistency, language mastery, and open-source contributions.</b></p>
+  <p><b>Detailed breakdown of development consistency, language mastery, and open-source contributions for Nvoinxv.</b></p>
   <a href="./README.md"><b>⬅️ Return to Main Profile</b></a>
 </div>
 
@@ -11,8 +11,8 @@
 > *Subtle animated trophies reflecting achievements across commits, issues, pull requests, and repository stars.*
 
 <div align="center">
-  <a href="https://github.com/<GANTI_USERNAME>">
-    <img src="https://github-profile-trophy.vercel.app/?username=<GANTI_USERNAME>&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://github.com/Nvoinxv">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nvoinxv&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -23,13 +23,13 @@
 Consistency is the key to building robust AI and Full-Stack systems. Below is my real-time contribution streak and daily activity breakdown:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<GANTI_USERNAME>&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak Statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvoinxv&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak Statistics" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<GANTI_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&include_all_commits=true&count_private=true" alt="Comprehensive GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nvoinxv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&include_all_commits=true&count_private=true" alt="Comprehensive GitHub Stats" />
 </div>
 
 ---
@@ -39,7 +39,7 @@ Consistency is the key to building robust AI and Full-Stack systems. Below is my
 Across AI Automation, Web Architecture, and Mobile Engineering, here is the automated distribution of languages in my repositories:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GANTI_USERNAME>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" alt="Detailed Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nvoinxv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" alt="Detailed Top Languages" />
 </div>
 
 ### 📊 Primary Domain Breakdown
@@ -58,7 +58,7 @@ Across AI Automation, Web Architecture, and Mobile Engineering, here is the auto
 > *An elegant visual representation of my daily contribution history across the entire year.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/<GANTI_USERNAME>/<GANTI_USERNAME>/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Snake" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/Nvoinxv/Nvoinxv/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Snake" onerror="this.style.display='none'" />
 </div>
 
 ---
