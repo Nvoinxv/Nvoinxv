@@ -1,0 +1,35 @@
+name: Auto-Update Experience Tracker
+
+on:
+  schedule:
+    # Runs every 6 hours (at minute 0 past hour 0, 6, 12, and 18 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-tracker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Duration Tracker Script
+        run: python scripts/update_time.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/data/time.json
+          git diff --staged --quiet || (git commit -m "chore(auto-tracker): update experience duration [skip ci]" && git push)
