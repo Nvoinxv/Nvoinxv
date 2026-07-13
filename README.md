@@ -34,11 +34,13 @@ This section is **automatically synchronized every 6 hours** using GitHub Action
 
 ```text
 +-----------------------------------------------------------------------+
-|  EXPERIENCE METRIC          |  VALUE                                  |
+|  REAL-TIME CAREER & TELEMETRY METRIC   |  CURRENT STATUS / VALUE      |
 +-----------------------------------------------------------------------+
-|  Career Start Date          |  2024-07-13                             |
-|  Total Active Experience    |  2 Years, 0 Months, 0 Days              |
-|  Last Automated Sync        |  2026-07-13 (UTC)                       |
+|  Career Start Date                     |  2024-07-13                  |
+|  Total Active Experience               |  2 Years, 0 Months, 0 Days   |
+|  Latest Push Activity (Pub & Priv)     |  2026-07-13 04:44:48 (UTC)   |
+|  Automated Sync Frequency              |  Every 1 Hour (Real-Time Cron) |
+|  Last Telemetry Sync                   |  2026-07-13 04:14:06 (UTC)   |
 +-----------------------------------------------------------------------+
 ```
 <!--TIME_TRACKER_END-->

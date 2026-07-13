@@ -1,10 +1,13 @@
-name: Auto-Update Experience Tracker
+name: Auto-Update Experience & Telemetry Tracker
 
 on:
   schedule:
-    # Runs every 6 hours (at minute 0 past hour 0, 6, 12, and 18 UTC)
-    - cron: '0 */6 * * *'
+    # Runs every 1 hour at minute 0 (Real-Time Cron)
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -21,12 +24,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run Duration Tracker Script
+      - name: Run Real-Time Telemetry & Duration Script
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: python scripts/update_time.py
 
-      - name: Commit and Push Changes
+      - name: Commit and Push Real-Time Telemetry
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md .github/data/time.json
-          git diff --staged --quiet || (git commit -m "chore(auto-tracker): update experience duration [skip ci]" && git push)
+          git diff --staged --quiet || (git commit -m "chore(auto-tracker): update experience & real-time telemetry [skip ci]" && git push)
