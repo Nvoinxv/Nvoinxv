@@ -3,7 +3,7 @@
   <img src="1205272.jpg" alt="Profile Banner" width="100%" style="border-radius: 12px; object-fit: cover; max-height: 380px;" />
 </div>
 
-<h1 align="center">Hi there, I'm <Nvoinxv> 👋</h1>
+<h1 align="center">Hi there, I'm Nvoinxv 👋</h1>
 
 <p align="center">
   <b>Architecting Intelligent Systems | Crafting Modern Web & Mobile Applications</b><br>
