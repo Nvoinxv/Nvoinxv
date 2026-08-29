@@ -39,7 +39,7 @@ This section is **automatically synchronized every 6 hours** using GitHub Action
 |  Career Start Date                     |  2024-07-13                  |
 |  Total Active Experience               |  2 Years, 1 Months, 16 Days  |
 |  Latest Push Activity (Pub & Priv)     |  2026-08-28 08:40:53 (UTC)   |
-|  Automated Sync Frequency              |  Every 1 Hour (Real-Time Cron) |
+|  Automated Sync Frequency              |  Every 1 Hour                |
 |  Last Telemetry Sync                   |  2026-08-29 21:22:39 (UTC)   |
 +-----------------------------------------------------------------------+
 ```
