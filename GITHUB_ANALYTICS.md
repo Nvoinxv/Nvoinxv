@@ -20,7 +20,7 @@
 
 ## ⚡ Contribution Consistency & Streak Metrics
 
-Consistency is the key to building robust AI and Full-Stack systems. Below is my real-time contribution streak and daily activity breakdown:
+Consistency is the key to building robust low-level systems, high-performance software, and automated workflows. Below is my real-time contribution streak and daily activity breakdown:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nvoinxv&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak Statistics" />
@@ -36,7 +36,7 @@ Consistency is the key to building robust AI and Full-Stack systems. Below is my
 
 ## 💻 Language Proficiency & Code Distribution
 
-Across AI Automation, Web Architecture, and Mobile Engineering, here is the automated distribution of languages in my repositories:
+Across Low-Level Systems, High-Performance Computing, and AI Automation, here is the automated distribution of languages in my repositories:
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nvoinxv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" alt="Detailed Top Languages" />
@@ -46,10 +46,10 @@ Across AI Automation, Web Architecture, and Mobile Engineering, here is the auto
 
 | Focus Area | Dominant Languages | Primary Use Cases |
 | :--- | :--- | :--- |
-| **🤖 AI & Automation** | Python, C++ | Autonomous agents, LLM orchestration pipelines, data processing |
-| **🌐 Web Development** | TypeScript, Dart | High-performance full-stack web applications, REST & GraphQL APIs |
-| **📱 Mobile Engineering**| Dart, TypeScript | Cross-platform native-feeling mobile apps for iOS & Android |
-| **🐳 DevOps & Systems** | Dockerfile, Shell | Containerized deployments, CI/CD automation, Linux system tuning |
+| **⚙️ Systems & Low-Level** | C, C++, x86-64 ASM | Low-level logic, memory management, foundational assembly routines |
+| **⚡ High-Performance Computing** | C++, Python | Computationally intensive tasks, backend architecture, algorithm optimization |
+| **🤖 AI & Automation** | Python, C++ | Autonomous workflows, LLM orchestration pipelines, data processing |
+| **🐳 DevOps & Environments** | Dockerfile, Shell | Containerized deployments, CI/CD automation, Linux system tuning |
 
 ---
 

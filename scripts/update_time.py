@@ -146,7 +146,7 @@ def main():
 |  Career Start Date                     |  {start_date_str:<27} |
 |  Total Active Experience               |  {duration_str:<27} |
 |  Latest Push Activity (Pub & Priv)     |  {last_activity_str:<27} |
-|  Automated Sync Frequency              |  {"Every 1 Hour (Real-Time Cron)":<27} |
+|  Automated Sync Frequency              |  {"Every 1 Hour":<27} |
 |  Last Telemetry Sync                   |  {sync_timestamp:<27} |
 +-----------------------------------------------------------------------+
 ```"""

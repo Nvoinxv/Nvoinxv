@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Nvoinxv 👋</h1>
 
 <p align="center">
-  <b>Architecting Intelligent Systems | Crafting Modern Web & Mobile Applications</b><br>
+  <b>Low-Level Systems & High-Performance Engineering | AI & Automation</b><br>
   <sub>⚡ Passionate about transforming complex ideas into high-performance, automated software solutions.</sub>
 </p>
 
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer with over **2 years of hands-on experience** specializing in building scalable, automated, and cross-platform ecosystems. My core expertise lies at the intersection of:
+I am a Software Engineer with over **2 years of hands-on experience** specializing in low-level systems, high-performance computing, and automated workflows. My core expertise lies at the intersection of:
 
-- **🤖 AI Automation**: Designing autonomous workflows, integrating LLMs, and building data-driven pipelines that eliminate manual bottlenecks.
-- **🌐 Web Development**: Engineering responsive, high-concurrency web architectures and REST/GraphQL APIs with modern full-stack frameworks.
-- **📱 Mobile Development**: Crafting fluid, native-feeling mobile applications with seamless UX across both Android and iOS ecosystems.
+- **🤖 AI & Automation**: Designing autonomous workflows, integrating LLMs, and building data-driven pipelines that eliminate manual bottlenecks using Python.
+- **⚡ Systems & High-Performance Computing**: Engineering efficient algorithms, low-latency applications, and memory-safe architectures in C and C++.
+- **🧩 Low-Level & Assembly**: Exploring x86-64 Assembly (control flow, I/O handling, computational logic) and system-level fundamentals.
 
 When I'm not writing code, I'm exploring system optimizations, tweaking my Linux environments, and contributing to open-source tools.
 
@@ -39,8 +39,8 @@ This section is **automatically synchronized every 6 hours** using GitHub Action
 |  Career Start Date                     |  2024-07-13                  |
 |  Total Active Experience               |  2 Years, 1 Months, 22 Days  |
 |  Latest Push Activity (Pub & Priv)     |  2026-09-02 11:30:55 (UTC)   |
-|  Automated Sync Frequency              |  Every 1 Hour (Real-Time Cron) |
-|  Last Telemetry Sync                   |  2026-09-04 11:55:20 (UTC)   |
+|  Automated Sync Frequency              |  Every 1 Hour                |
+|  Last Telemetry Sync                   |  2026-09-04 04:14:07 (UTC)   |
 +-----------------------------------------------------------------------+
 ```
 <!--TIME_TRACKER_END-->
@@ -51,10 +51,10 @@ This section is **automatically synchronized every 6 hours** using GitHub Action
 
 ### 💻 Core Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/x86--64_Assembly-333333?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x86-64 Assembly" />
 </p>
 
 ### 🐳 Infrastructure & Databases
